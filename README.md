@@ -6,6 +6,7 @@ Aplikasi ini memprediksi apakah sebuah lagu berpotensi menjadi "Hit" atau "Flop"
 
 ## 👨‍💻 Developer
 * **Randy Adika Fathoni** - BINUS University
+* **Achmad Sanusi** - BINUS University
 
 ## ✨ Fitur Utama
 * **Prediksi Instan:** Mengklasifikasikan lagu secara *real-time* (latensi < 100ms) melalui antarmuka Streamlit.
